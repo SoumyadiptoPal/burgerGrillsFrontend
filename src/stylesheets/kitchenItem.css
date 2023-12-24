@@ -1,0 +1,26 @@
+.product{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    padding-bottom: 15px;
+}
+
+.product img{
+    width:70px;
+    height:70px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.product .p-details{
+    padding-left: 15px;
+}
+.product .p-details h2{
+    font-size: 20px;
+    color: black;
+}
+
+.product .p-details h3{
+    font-size: 18px;
+    color: black; 
+}

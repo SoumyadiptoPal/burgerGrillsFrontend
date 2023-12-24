@@ -1,0 +1,14 @@
+.slide img{
+    height:40vh;
+    max-height: 240px;
+    max-width: 95vw;
+}
+.slide{
+    /* background-color: rgb(82, 6, 6); */
+    /* height:30vh */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}

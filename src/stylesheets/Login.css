@@ -1,0 +1,33 @@
+.cont1{
+    width: 100%;
+    height: 91vh;
+    background: url('../../public/images/background.jpg') center/cover;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.cont2{
+    width: 400px;
+    height:500px;
+    background-color:beige;
+    border: 2px solid black;
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#forms{
+    padding: 15px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+#login{
+    padding-top: 15px;
+}
